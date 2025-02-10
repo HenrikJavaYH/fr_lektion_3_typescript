@@ -5,7 +5,7 @@ function helloWorld() {
 
 //helloWorld()
 
-//new comment, did it appear on github?
+
 
 const robin: sidekick = {
     name: "Robin",
